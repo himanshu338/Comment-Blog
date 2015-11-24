@@ -17,7 +17,7 @@ if(isset($_GET["username"]) && isset($_GET["password"]) && isset($_GET["firstnam
 	$user->create();
 }
 else{
- 	echo "all detials are not filled";
+ 	echo "all details are not filled";
 }
 
 

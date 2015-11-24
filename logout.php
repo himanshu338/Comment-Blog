@@ -1,3 +1,5 @@
+// Delete the current session of user
+
 <?php
 
 require_once("database.php");

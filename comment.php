@@ -1,3 +1,5 @@
+//Make a new entry of comment in table-'comment' of database-'login_system' 
+
 <?php
 
 require_once("database.php");

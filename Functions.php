@@ -1,3 +1,5 @@
+//Common functions used in different part of project
+
 <?php
 
 function strip_zeros_from_date( $marked_string="" ) {

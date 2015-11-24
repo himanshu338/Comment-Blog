@@ -1,3 +1,5 @@
+//For Creating Connection with the Database-login_system
+
 <?php
 class SQL{
 	private $connection;

@@ -1,3 +1,5 @@
+//Outlook of the blog
+
 <?php
 
 require_once("database.php");
@@ -20,6 +22,8 @@ Comment:</br></br>
 </form>
 </html>
 
+
+//For realoading the previous results
 <?php
 
 require_once("ex2.php");

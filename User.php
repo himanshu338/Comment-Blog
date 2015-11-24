@@ -1,3 +1,5 @@
+//Uses the 'data' part of database-login_system
+
 <?php
 // It's going to need the database
 require_once('database.php');

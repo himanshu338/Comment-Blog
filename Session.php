@@ -1,3 +1,5 @@
+//Maitaining cookies/session for login of user
+
 <?php
 
 require_once("user.php");

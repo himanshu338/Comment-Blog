@@ -1,3 +1,5 @@
+//Create the account for user and insert it into the database
+
 <?php
 require_once("database.php");
 require_once("functions.php");
